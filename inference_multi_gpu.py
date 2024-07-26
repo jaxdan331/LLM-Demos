@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-model inference with multi-gpus
+large language model inference with multi-gpus
 """
 import argparse
 import json
